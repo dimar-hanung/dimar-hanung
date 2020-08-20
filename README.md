@@ -2,9 +2,9 @@
 Hi there I'm **Dimar Hanung** and I'm on way to be Front-End Developer 👋 \
 What are you waiting for? just keep learn okay :ghost:
 ## Hobbies
-:pencil: Write Some Documentation
-:art: Likes to create static web (front-end)
-:computer:  I’m looking to collaborate on Web Devoloper Team
+:pencil: Write Some Documentation \
+:art: Likes to create static web (front-end) \
+:computer:  I’m looking to collaborate on Web Devoloper Team \
 
 ## Contact?
 :iphone: 087793110422 / WhatsApp Only \
