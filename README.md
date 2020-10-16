@@ -1,6 +1,5 @@
 
-## Halo saya **Dimar Hanung** 👋 
-
+## Hello, My Name Is **Dimar Hanung** 👋 
 
 ![Dimar's github stats](https://github-readme-stats.vercel.app/api?username=dimar-hanung&show_icons=true&theme=vue)
 
