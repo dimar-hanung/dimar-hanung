@@ -1,5 +1,5 @@
 
-## Halo, Nama saya **Dimar Hanung** 👋 
+## 👋  Halo, Nama saya **Dimar Hanung** 
 ### 📌 Ayok lah yang mau kerja sama, bikin apa gitu... 
 ### ✅ Kontak 087793110422 - WA Only
 
