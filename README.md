@@ -3,8 +3,8 @@
 <center>
 
 ### :sunny: Weekly Code Track
-
-<figure><embed src="https://wakatime.com/share/@dimarhanung/d37e7783-95cd-4802-b462-848dec972cae.svg"></embed></figure>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### :fire: Streak
 
