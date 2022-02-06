@@ -5,11 +5,11 @@
 ### :sunny: Weekly Code Track
 <!--START_SECTION:waka-->
 ```text
-TypeScript   19 hrs 37 mins  ████████████████░░░░░░░░░   64.19 % 
-Vue.js       7 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-Other        2 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-JavaScript   35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-JSON         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+TypeScript   21 hrs 13 mins  ███████████████▒░░░░░░░░░   61.44 % 
+Vue.js       9 hrs 1 min     ██████▓░░░░░░░░░░░░░░░░░░   26.12 % 
+Other        2 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+JavaScript   1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+JSON         27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 ```
 <!--END_SECTION:waka-->
 
