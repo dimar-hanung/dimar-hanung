@@ -6,12 +6,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       25 hrs 55 mins  █████████████▓░░░░░░░░░░░   54.65 %
-TypeScript   6 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
-JavaScript   5 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
-Dart         4 hrs 24 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
-Groovy       1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-Markdown     1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Vue.js       16 hrs 27 mins  █████████▒░░░░░░░░░░░░░░░   37.24 %
+TypeScript   8 hrs 19 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.84 %
+JavaScript   7 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
+Dart         4 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+Groovy       2 hrs 21 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+Markdown     1 hr 43 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
 ```
 
 <!--END_SECTION:waka-->
