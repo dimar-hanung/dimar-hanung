@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm **Dimar Hanung**
 
-🏢 Front-End Developer at Universitas Terbuka
-🏡 Lives in Tangerang Selatan, <img width="18" src="/assets/id.png" /> Indonesia
-🎓 Studies for TKJ at SMK Telkom Purwokerto
-⚡ I like to `> code .`
+🏢 Front-End Developer at Universitas Terbuka  
+🏡 Lives in Tangerang Selatan, <img width="18" src="/assets/id.png" /> Indonesia  
+🎓 Studies for TKJ at SMK Telkom Purwokerto  
+⚡ I like to `> code .`  
 
 <hr/>
 
