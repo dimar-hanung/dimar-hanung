@@ -31,12 +31,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Dart             7 hrs 5 mins    █████████▒░░░░░░░░░░░░░░░   36.98 %
-Vue.js           5 hrs 45 mins   ███████▓░░░░░░░░░░░░░░░░░   30.03 %
-JavaScript       4 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   23.37 %
-TypeScript       1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-Blade Template   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Other            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Vue.js           8 hrs 18 mins   ██████████▒░░░░░░░░░░░░░░   40.80 %
+Dart             6 hrs 38 mins   ████████░░░░░░░░░░░░░░░░░   32.63 %
+JavaScript       3 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
+TypeScript       1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+Blade Template   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Other            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
