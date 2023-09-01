@@ -31,11 +31,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js           9 hrs 1 min     █████████████▓░░░░░░░░░░░   54.95 %
-TypeScript       3 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   19.40 %
-JavaScript       2 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.60 %
-HTML             22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-ActionScript 3   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Vue.js           8 hrs 57 mins   ██████████████░░░░░░░░░░░   55.88 %
+TypeScript       3 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   20.29 %
+JavaScript       2 hrs 46 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.28 %
+JSON             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+GDScript         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->
