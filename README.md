@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=dimar-hanung)
 ## 👋 Hi, I'm **Dimar Hanung**
 🏢 Front-End Developer at Universitas Terbuka  
 🏡 Lives in Tangerang Selatan, <img width="18" src="/assets/id.png" /> Indonesia  
