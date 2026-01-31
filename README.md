@@ -128,6 +128,9 @@ Other        29 mins         ▓░░░░░░░░░░░░░░░░
   <a href="https://www.linkedin.com/in/dimar-hanung/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://dimarhanung.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
 </p>
 
 <i>"The best time to plant a tree was 20 years ago. The second best time is now.” </i>
