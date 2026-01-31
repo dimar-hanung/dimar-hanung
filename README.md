@@ -77,8 +77,6 @@ Other        29 mins         ▓░░░░░░░░░░░░░░░░
 
 </div>
 
----
-
 <div align="center">
 
 ## 💻 Coding Philosophy
@@ -113,8 +111,6 @@ Other        29 mins         ▓░░░░░░░░░░░░░░░░
 **The best results come from combining both approaches** — understanding the "why" while leveraging the "how" to ship faster and better software.
 
 </div>
-
----
 
 <div align="center">
 
