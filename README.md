@@ -4,9 +4,9 @@
 
 # 👋 Hi, I'm Dimar Hanung
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007bff&center=true&vCenter=true&width=435&lines=Software Engineer;Lifelong+Learner" alt="Typing SVG" />
-</p>
+</p> -->
 
 <p align="center">
   🏢 <b>Front-End Developer</b> at Universitas Terbuka  
@@ -17,8 +17,6 @@
 </p>
 
 </div>
-
----
 
 <div align="center">
 
@@ -54,8 +52,6 @@
 </p>
 
 </div>
-
----
 
 <div align="center">
 
