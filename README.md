@@ -52,6 +52,8 @@ Other        29 mins         ▓░░░░░░░░░░░░░░░░
 
 <h2>💻 Coding Philosophy</h2>
 
+<p>I believe in the power of both manual coding and vibe coding</p>
+
 <table >
   <tr>
     <td width="50%"  valign="top">
@@ -83,23 +85,16 @@ Other        29 mins         ▓░░░░░░░░░░░░░░░░
   </tr>
 </table>
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="middle">
-      <h2>🤝 Let's Connect!</h2>
-      Currently open for collaborations and interesting projects. Feel free to reach out!
-    </td>
-    <td width="40%" valign="middle" align="right">
-      <a href="https://www.linkedin.com/in/dimar-hanung/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-      </a>
-      <br><br>
-      <a href="https://dimarhanung.dev/">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white">
-      </a>
-    </td>
-  </tr>
-</table>
+<h2>🤝 Let's Connect!</h2>
+
+Currently open for collaborations and interesting projects. Feel free to reach out!
+
+<a href="https://www.linkedin.com/in/dimar-hanung/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://dimarhanung.dev/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white">
+</a>
 
 <table width="100%">
   <tr>
