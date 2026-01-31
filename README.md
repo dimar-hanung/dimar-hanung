@@ -52,24 +52,25 @@ Other        29 mins         ▓░░░░░░░░░░░░░░░░
 
 <h2>💻 Coding Philosophy</h2>
 
-<table width="100%">
+<table >
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%"  valign="top">
       <h3>💡 Manual Coding</h3>
-      <pre>✓ Deep understanding of fundamentals
-✓ Problem-solving from first principles  
-✓ Building solid architectural foundations
-✓ Crafting clean, maintainable code</pre>
+      • Deep understanding of fundamentals<br>
+      • Problem-solving from first principles<br>
+      • Building solid architectural foundations<br>
+      • Crafting clean, maintainable code<br><br>
       <b>Focus:</b> Quality, depth, mastery
     </td>
-    <td width="50%" valign="top">
+    <td width="50%"  valign="top">
       <h3>⚡ Vibe Coding</h3>
-      <pre>✓ Rapid prototyping with AI assistance
-✓ Automating repetitive boilerplate
-✓ Exploring creative solutions faster
-✓ Accelerating the development cycle</pre>
+      • Rapid prototyping with AI assistance<br>
+      • Automating repetitive boilerplate<br>
+      • Exploring creative solutions faster<br>
+      • Accelerating the development cycle<br><br>
       <b>Focus:</b> Speed, experimentation, delivery
     </td>
+
   </tr>
 </table>
 
