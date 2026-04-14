@@ -42,18 +42,6 @@
 
 <img src="https://www.codewars.com/users/dimar-hanung/badges/large">
 
-<!--START_SECTION:waka-->
-
-```txt
-Vue.js       10 hrs 14 mins        ██████████░░░░░░░░░░░░░░░   39.35 %
-TypeScript   6 hrs 49 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.23 %
-JavaScript   3 hrs 15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
-JSON         2 hrs 19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
-Markdown     2 hrs 8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-```
-
-<!--END_SECTION:waka-->
-
 <h2>💻 Coding Philosophy</h2>
 
 <p>I believe in the power of both manual coding and vibe coding</p>
